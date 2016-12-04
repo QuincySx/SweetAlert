@@ -10,7 +10,7 @@
         android:fromAlpha="0"
         android:toAlpha="1"/>
 
-    <sweet:com.a21vianet.quincysx.sweetalert.app.Rotate3dAnimation
+    <sweet:com.a21vianet.quincysx.library.Rotate3dAnimation
         android:duration="400"
         sweet:fromDeg="100"
         sweet:pivotX="50%"
