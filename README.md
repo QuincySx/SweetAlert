@@ -12,6 +12,11 @@ Android版的SweetAlert，清新文艺，快意灵动的甜心弹框
 ## 运行示意图
 ![image](https://github.com/pedant/sweet-alert-dialog/raw/master/change_type.gif)
 
+## AndroidStidio使用
+```
+compile 'com.github.QuincySx:SweetAlert:1.0.4'
+```
+
 ## 如何开始
 显示Material进度样式
 
